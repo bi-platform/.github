@@ -19,7 +19,8 @@ flowchart TD
 
     A --> B
     B --> C
-    C --> D
+    B --> D
+    C --> E
     D --> E
 ```
 
