@@ -59,14 +59,6 @@ GenoLifeCare Platform (GLCP)을 개발 및 제공하여, WetLab 실험자가 직
 
 
 
-## 📦 Repositories
-
-| Repository | Description |
-|-----------|------------|
-| cel2genotype | Array 데이터 분석 (QC 및 genotyping) |
-| genotype2service | Genotype 데이터 전환 및 API POST to LIS |
-| nipt-report-precheck | VeriSeq v2 WetLab 데이터 분석 |
-| biocoredx | IBC의 LIMS |
 
 ---
 
